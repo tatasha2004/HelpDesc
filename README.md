@@ -19,5 +19,5 @@ Author: Nataly Titarenko
 + 222
 + 333
 
-" inline code"
-'"code bloke "'
+ `` inline code`` 
+``` code bloke ``` 
